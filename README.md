@@ -1,2 +1,2 @@
 # odin-recipes
-Some food recipes 
+Some food recipes in this website
